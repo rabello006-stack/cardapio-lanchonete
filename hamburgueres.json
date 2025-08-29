@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Burger",
+    "description": "A timeless favorite with a juicy beef patty, fresh lettuce, tomato, and our special sauce on a toasted bun.",
+    "price": "$12.99",
+    "imageUrl": "https://images.unsplash.com/photo-1639339329509-ace0ee0f8fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkZWxpY2lvdXMlMjBoYW1idXJnZXIlMjBmb29kfGVufDF8fHx8MTc1NjIzMTQyNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Classic hamburger"
+  },
+  {
+    "id": 2,
+    "name": "Cheese Deluxe",
+    "description": "Double cheese, beef patty, caramelized onions, pickles, and creamy mayo on a brioche bun.",
+    "price": "$14.99",
+    "imageUrl": "https://images.unsplash.com/photo-1591336277697-cdae7e42dead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIwY2hlZXNlYnVyZ2VyfGVufDF8fHx8MTc1NjE1MDg4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Cheeseburger deluxe"
+  },
+  {
+    "id": 3,
+    "name": "Bacon BBQ",
+    "description": "Smoky BBQ sauce, crispy bacon, cheddar cheese, and onion rings on a beef patty.",
+    "price": "$16.99",
+    "imageUrl": "https://images.unsplash.com/photo-1598182198871-d3f4ab4fd181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWNvbiUyMGJ1cmdlcnxlbnwxfHx8fDE3NTYxNjMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Bacon BBQ burger"
+  },
+  {
+    "id": 4,
+    "name": "Veggie Garden",
+    "description": "Plant-based patty with avocado, sprouts, cucumber, and herb aioli on a whole grain bun.",
+    "price": "$13.99",
+    "imageUrl": "https://images.unsplash.com/photo-1520072959219-c595dc870360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2ZWdldGFyaWFuJTIwYnVyZ2VyfGVufDF8fHx8MTc1NjIzMTQyNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Vegetarian burger"
+  }
+]
