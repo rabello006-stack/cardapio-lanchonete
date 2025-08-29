@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Orange Juice",
+    "description": "Freshly squeezed orange juice packed with vitamin C and natural sweetness.",
+    "price": "$4.99",
+    "imageUrl": "https://images.unsplash.com/photo-1707569517904-92b134ff5f69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMG9yYW5nZSUyMGp1aWNlJTIwZHJpbmt8ZW58MXx8fHwxNzU2MjMxNDI5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Fresh orange juice"
+  },
+  {
+    "id": 2,
+    "name": "Classic Cola",
+    "description": "Ice-cold cola with the perfect blend of sweetness and fizz to refresh your day.",
+    "price": "$2.99",
+    "imageUrl": "https://images.unsplash.com/photo-1741519425658-6bca32b304df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2xkJTIwY29sYSUyMHNvZGF8ZW58MXx8fHwxNzU2MjMxNDMwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Classic cola"
+  },
+  {
+    "id": 3,
+    "name": "Iced Coffee",
+    "description": "Rich, smooth coffee served over ice with a hint of cream for the perfect pick-me-up.",
+    "price": "$3.99",
+    "imageUrl": "https://images.unsplash.com/photo-1684439670717-b1147a7e7534?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpY2VkJTIwY29mZmVlJTIwZHJpbmt8ZW58MXx8fHwxNzU2MjI5NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Iced coffee"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Lemonade",
+    "description": "Homemade lemonade with real lemons, perfectly balanced between sweet and tart.",
+    "price": "$3.49",
+    "imageUrl": "https://images.unsplash.com/photo-1665556662881-e713386179c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGxlbW9uYWRlfGVufDF8fHx8MTc1NjIzMTQzMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "imageAlt": "Fresh lemonade"
+  }
+]
